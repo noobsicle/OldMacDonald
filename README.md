@@ -6,7 +6,7 @@ Start by forking [this repository](https://github.com/APCSLowell/OldMacDonald). 
 
 Background: Inheritance and Polymorphism
 ---------------------------------------- 
-In this assignment we will use Old MacDonald's Farm to learn how `implements` and `extends` work, and the meaning of *inheritance* and *polymorphism*.
+In this assignment we will use Old MacDonald's Farm to learn how `implements` and `extendhttps://github.com/noobsicle/OldMacDonald/branchess` work, and the meaning of *inheritance* and *polymorphism*.
 
 Defining an interface
 ---------------------
