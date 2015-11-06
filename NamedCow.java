@@ -1,19 +1,19 @@
 
-class NamedCow implements Animal 
+class NamedCow extends Cow
 {     
      //your code here
-	 private String myType;     
-     private String mySound;      
-     public NamedCow(String type, String sound, String sound2)     {         
+     private String mySound2;
+     private String myName;
+     public NamedCow(String type, String name, String sound2)     {         
          myType = type;         
-         mySound = sound;   
-         mySound = sound2;  
+         myName = name;   
+         mySound2 = sound2;  
      }     
      public NamedCow()     {         
          myType = "unknown";         
-         mySound = "unknown";  
+         myName = "unknown";  
          
      }      
-     public String getSound(){return mySound;}     
+     public String getSound(){return mySound2; } 
      public String getType(){return myType;}
 }
